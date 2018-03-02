@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageButton
+        android:id="@+id/design_image"
+        android:src="@drawable/ic_folder_open_black_24dp"
+        android:background="@drawable/control_window_background"
+        android:layout_width="56dp"
+        android:layout_height="56dp" />
+</FrameLayout>

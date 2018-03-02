@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context="com.theaty.peisongda.ui.mine.activity.FeedBackActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/font_20"
+        android:textSize="18sp"
+        android:text="@string/feedback_title"/>
+    <EditText
+        android:id="@+id/et_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/font_14"
+        android:background="@color/white"
+        android:gravity="top"
+        android:textSize="@dimen/font_14"
+        android:padding="@dimen/font_14"
+        android:lines="8"
+        android:hint="@string/feedback_hint"/>
+    <Button
+        android:id="@+id/bt_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:background="@drawable/shape_custom_btn_bg"
+        android:text="@string/feedback_button"/>
+</LinearLayout>

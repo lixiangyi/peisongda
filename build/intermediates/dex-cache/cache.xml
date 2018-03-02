@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\QuickAddlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cbf309d0805667d174e024bea63d80d92bf151fd">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_c5f4c85c5d68a788f1a269aa9bbbafc07c8c28c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\app\libs\aliyun-oss-sdk-android-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7a793de62a8d797f5f9fd2796bd5d877009f16a">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\2\aliyun-oss-sdk-android-2.3.0_b5b81efdf8538e63b7997fe4335e3f887e090fca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\SocialSDK_Sina_Full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1011665f7844a782731e04201c93c852ac481366">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_Full_8eab4a71cd459c203ec23751ac4ed5cac0b23fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\commonlibrary\build\intermediates\bundles\default\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f1c6430d81c29a0bf69776eea0d3862fddcb985">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng-analytics-v6.0.1_614812e538ddad9cc171c3e2326dce243b309428\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\commonlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e84d9e8ca551c8a6d4a7c5e660ce341f0f957752">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_8686f07df572f223355ca8ee171c112cff914565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\umeng_shareboard_widget.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbf940eb41c869970b3ddcf0117e9718f687af71">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_shareboard_widget_36f2842dc3b92a273c8c6677eb50bf48cc9f48eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\commonlibrary\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.apache.http.legacy_2be6a5a9d42a50790e3dcbe66f9ecdf9e81cd165\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\SocialSDK_tencentWB.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dffd1c6504eade840ff685dafdf3f2c27ddd7e62">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_791f0d581aa24c704a52997f4f6973be4d9eec37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\commonlibrary\build\intermediates\bundles\default\libs\program.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad2be1525a33f28a3170073d80e34061e9a4e593">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\program_8c7470601b66bb0d4e1e5f8ca990f56385e6321e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bc78160e85f56f81c91271dfa44bd8c8293cb94">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\weiboSDKCore_3.1.4_7ec409ea8e4d3a73b4a224e93d6c2fb8f27cb908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\umeng_social_shareboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee75556e3a47f4229f7505a09720faa4c013b054">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_shareboard_ce0f0f8915848ccaf85894e4a9a161611b72d4fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\umeng_social_api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53b73bfdef4c11731fc1664c450acc01ace729cf">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_api_02c689851ef528145d895533bd6667e4b7d49ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\app\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.4-with-sources_5ef6eca149cdf0e48ae51d7d3fbb1b0e6987b63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4054d15ab07deebf78cee4c12573121e4aed31a6">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_0707910fcf977cb9bd4997c9aefdcf32fb4a6692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_91132bb200ba07cc2e568254511c5e9dabbb7667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\versionmanagerlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0dcfe6c86c7620deeb97d9b7089724d5f497585">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_2e4244bcd98215a7bec41e2a866da5a4a8a170a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\SocialSDK_WeChat_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c89bfd242173aadc6ac263a07b9b774930835849">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeChat_Simplify_db37c03e4151e2cf89330b57d1edfe142fb1a05d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\umeng_social_net.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="912395ed740baa51d9d571c079fdaa6b0f870971">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_net_32c4c23ebdc5176aee50b2cb3872d4fc60afac69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\umengshare\build\intermediates\bundles\default\libs\SocialSDK_QQ_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6fc53d85644a6555c589b0e54a221a21da61421">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQ_Simplify_b5852c6ddd1dda7960c2c6f1e0e397edd6e75667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\peisongda\Android\peisongda\app\libs\badgeview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6301e7214e651730acacf9815ac3a56701231015">
+        <dex dex="G:\peisongda\Android\peisongda\app\build\intermediates\transforms\dex\debug\folders\1000\2\badgeview_bbe2b7f5a7b0cb7fb9ec7de447499d10c7615767\classes.dex" />
+    </item>
+
+</items>

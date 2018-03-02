@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#eff0f4"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="4dp"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="@color/primary_color" />
+
+    <TextView
+        android:id="@+id/title_static"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:text="区域1"
+        android:textColor="@color/primary_color"
+        android:textSize="16sp" />
+
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@null"
+        android:checked="true"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/checkbox_selecter"
+        android:text="全选"
+        android:layout_marginRight="10dp"
+        android:visibility="gone"
+        android:textColor="@color/check_selector"
+        android:textSize="16sp" />
+
+</LinearLayout>

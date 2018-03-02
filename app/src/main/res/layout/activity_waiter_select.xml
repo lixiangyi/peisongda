@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <foundation.widget.swiperefresh.SuperSwipeRefreshLayout
+        android:id="@+id/swipe_layout_tablelist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/waiter_table_list"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:nestedScrollingEnabled="false"/>
+    </foundation.widget.swiperefresh.SuperSwipeRefreshLayout>
+    <TextView
+        android:id="@+id/nest_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/submit_button_squ"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="15dp"
+        android:text="下一步"
+        android:textColor="#f7f8f8"
+        android:visibility="gone"
+        android:textSize="18sp" />
+</RelativeLayout>

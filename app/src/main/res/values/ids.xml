@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="photo" type="id" />
+    <item name="face" type="id" />
+    <item name="gift" type="id" />
+    <item name="camera" type="id" />
+</resources>

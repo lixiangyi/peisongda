@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/goods_boder"
+    android:padding="0.5dp"
+    android:layout_margin="5dp">
+    <com.theaty.peisongda.ui.home.utils.SquareRelativelayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <foundation.widget.imageview.SquareImageView
+            android:id="@+id/item_iv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <foundation.widget.imageview.SquareImageView
+            android:id="@+id/item_iv_select"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/selected_icon" />
+
+        <foundation.widget.imageview.SquareImageView
+            android:id="@+id/item_iv_no"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/grey"
+            android:visibility="gone" />
+
+    </com.theaty.peisongda.ui.home.utils.SquareRelativelayout>
+
+    <TextView
+        android:id="@+id/item_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="每日三餐"
+        android:textColor="@color/select_selector"
+        android:textSize="16sp" />
+    <!--android:background="@drawable/selector_table"-->
+
+</LinearLayout>
+
+
+

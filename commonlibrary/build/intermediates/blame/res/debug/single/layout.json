@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_footer_view.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\recycler_footer_view.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\toast_info.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\toast_info.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\view_load_progress.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\view_load_progress.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\view_time_layout.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\view_time_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\new_data_toast.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\new_data_toast.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\common_navigationbar.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\common_navigationbar.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\item_popup_list.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\item_popup_list.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\item_photoview.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\item_photoview.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_recycler.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\recyclerview_recycler.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\comui_tab_view.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\comui_tab_view.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\tagview_item.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\tagview_item.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabfragment.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\activity_tabfragment.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\simple_item_text_layout.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\simple_item_text_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\time_select_layout.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\time_select_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_container.xml",
+        "source": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\src\\main\\res\\layout\\fragment_container.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\111ce035e99e2eada52a8ee9c4651be9c83d5e27\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\peisongda\\Android\\peisongda\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\lixiangyi\\.android\\build-cache\\3fb902bc990802bcc313c696526d1f5e3efb076f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    }
+]

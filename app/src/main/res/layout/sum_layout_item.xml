@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F3f3f3"
+    android:orientation="horizontal"
+    android:paddingTop="8dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/v_name_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:text="大白菜"
+        android:maxLines="1"
+        android:layout_weight="1"
+        android:textColor="#333333"
+        android:textSize="18sp" />
+    <TextView
+        android:id="@+id/num_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="25dp"
+        android:text="3斤左右"
+        android:padding="8dp"
+        android:textSize="18sp"
+
+        android:textColor="#333333" />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+

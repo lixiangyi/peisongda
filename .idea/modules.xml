@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QuickAddlibrary/QuickAddlibrary.iml" filepath="$PROJECT_DIR$/QuickAddlibrary/QuickAddlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonlibrary/commonlibrary.iml" filepath="$PROJECT_DIR$/commonlibrary/commonlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peisongda.iml" filepath="$PROJECT_DIR$/peisongda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umengshare/umengshare.iml" filepath="$PROJECT_DIR$/umengshare/umengshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/versionmanagerlibrary/versionmanagerlibrary.iml" filepath="$PROJECT_DIR$/versionmanagerlibrary/versionmanagerlibrary.iml" />
+    </modules>
+  </component>
+</project>

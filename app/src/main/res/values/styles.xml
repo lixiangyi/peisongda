@@ -1,0 +1,97 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name="AppTheme_Primary_StatusBar" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@color/bg_color</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="navbar_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/navigationBarSize</item>
+        <item name="android:background">@drawable/nav_bar_bg</item>
+    </style>
+
+    <style name="SettingLine">
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:onClick">click</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="SettingStartText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="SettingEndText">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/second_text</item>
+        <item name="android:layout_marginRight">14dp</item>
+    </style>
+
+    <style name="horizontal_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dip</item>
+        <item name="android:background">#e2e2e2</item>
+    </style>
+
+    <style name="titleTextViewStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/title_nomal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="AppTheme_Primary_StatusBar.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme_Primary_StatusBar.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <dimen name="size_14">14sp</dimen>
+
+    <style name="normal_text">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textSize">@dimen/size_14</item>
+    </style>
+
+    <style name="normal_text_edit">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textSize">@dimen/size_14</item>
+    </style>
+
+    <style name="edittext_nomal" parent="normal_text_edit">
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">8sp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:lines">1</item>
+    </style>
+
+    <style name="tab_text_style">
+        <item name="android:textColor">#666666</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:includeFontPadding">false</item></style>
+
+    <style name="tab_text">
+        <item name="android:textSize">15sp</item>
+    </style>
+</resources>
